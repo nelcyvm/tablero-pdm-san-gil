@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <title>
+   Seguimiento PDM | San Gil
+  </title>
+  <link href="css/estilos.css" rel="stylesheet"/>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js">
+  </script>
+  <script defer="" src="paginas/resumen.js"></script>
+  <script defer="" src="paginas/sectores.js"></script>
+  <script defer="" src="paginas/metas.js"></script>
+  <script defer="" src="paginas/banco.js"></script>
+  <script defer="" src="paginas/ejecucion.js"></script>
+  <script defer="" src="paginas/presupuesto.js"></script>
+  <script defer="" src="paginas/informacion.js"></script>
+  <script defer="" src="js/app.js">
+  </script>
+ </head>
+ <body>
+  <header class="institutional-header">
+   <div class="brand">
+    <div class="institutional-logo">
+     <img alt="Escudo de la Alcald&iacute;a Municipal de San Gil" class="seal-logo" onerror="this.style.display='none';document.getElementById('logo-fallback').style.display='grid'" src="img/logo.png"/>
+     <div aria-hidden="true" class="seal" id="logo-fallback" style="display:none">
+      SG
+     </div>
+    </div>
+    <div aria-hidden="true" class="brand-divider">
+    </div>
+    <div aria-hidden="true" class="dashboard-symbol">
+     ▥
+    </div>
+    <div class="dashboard-title">
+     <span>
+      Tablero de Control
+     </span>
+     <h1>
+      Plan de Desarrollo Municipal
+     </h1>
+     <p>
+       2024&ndash;2027
+     </p>
+    </div>
+   </div>
+   <div class="headright">
+    <span id="corte">
+     Corte: 31/10/2026
+    </span>
+    <a class="admin-link" href="herramienta.html" style="display:none;">
+     &nearrow; Actualizar Excel / JSON
+    </a>
+   </div>
+  </header>
+  <nav id="menu">
+   <a href="#resumen">
+    ⌂ Resumen ejecutivo
+   </a>
+   <a href="#sectores">
+    ▥ Sectores y programas
+   </a>
+   <a href="#metas">
+    ◎ Metas y productos
+   </a>
+   <a href="#banco">
+    ▣ Banco de Proyectos
+   </a>
+   <a href="#ejecucion">
+    ▥ Ejecución por proyectos
+   </a>
+   <a href="#presupuesto">
+    ▦ Presupuesto 2027
+   </a>
+   <a href="#informacion">
+    ⓘ Informaci&oacute;n
+   </a>
+  </nav>
+  <main class="workspace">
+   <aside class="sidebar">
+    <h2>
+     ⚑ Filtros de an&aacute;lisis
+    </h2>
+    <label>
+     Vigencia
+     <select id="vigencia">
+      <option value="2026">
+       2026 &middot; Corte actual
+      </option>
+      <option value="2024">
+       2024 &middot; Avance f&iacute;sico
+      </option>
+      <option value="2025">
+       2025 &middot; Avance f&iacute;sico
+      </option>
+      <option value="2027">
+       2027 &middot; Programado
+      </option>
+      <option value="todas">
+       Todas &middot; Acumulado
+      </option>
+     </select>
+    </label>
+    <label>
+     Sector
+     <select id="sector">
+      <option value="">
+       Todos
+      </option>
+     </select>
+    </label>
+    <label>
+     Programa
+     <select id="programa">
+      <option value="">
+       Todos
+      </option>
+     </select>
+    </label>
+    <label>
+     Dependencia
+     <select id="dependencia">
+      <option value="">
+       Todas
+      </option>
+     </select>
+    </label>
+    <label>
+     BPIN / Radicado
+     <select id="bpin">
+      <option value="">
+       Todos
+      </option>
+     </select>
+    </label>
+    <label>
+     Buscar producto o proyecto
+     <input id="buscar" placeholder="Nombre, c&oacute;digo o palabra"/>
+    </label>
+    <button id="limpiar">
+     &orarr; Limpiar filtros
+    </button>
+   </aside>
+   <div class="content">
+    <div class="alerta" id="alerta">
+    </div>
+    <div id="panel">
+    </div>
+   </div>
+  </main>
+  <footer>
+   Alcald&iacute;a Municipal de San Gil &middot; Datos institucionales suministrados &middot; Consulta informativa sujeta a validaci&oacute;n
+  </footer>
+ </body>
+</html>
