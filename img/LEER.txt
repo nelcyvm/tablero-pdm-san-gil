@@ -1,0 +1,1 @@
+Coloque aquí el escudo institucional con el nombre logo.png. Si el archivo tiene otro nombre, ajuste src="img/logo.png" en index.html.

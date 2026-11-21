@@ -1,0 +1,284 @@
+[
+  {
+    "dependencia": "CENTRO DE CONVIVENCIA",
+    "filas_financieras": [
+      63,
+      140,
+      142,
+      143,
+      159,
+      163
+    ]
+  },
+  {
+    "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+    "filas_financieras": [
+      155,
+      166,
+      178,
+      179,
+      180,
+      182
+    ]
+  },
+  {
+    "dependencia": "GESTIÓN SOCIAL",
+    "filas_financieras": [
+      20,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      34,
+      35,
+      36,
+      37,
+      38,
+      61,
+      62,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      167,
+      168
+    ]
+  },
+  {
+    "dependencia": "INDER",
+    "filas_financieras": [
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82
+    ]
+  },
+  {
+    "dependencia": "ICT",
+    "filas_financieras": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      109,
+      197,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204,
+      205
+    ]
+  },
+  {
+    "dependencia": "COMUNICACIONES",
+    "filas_financieras": [
+      151
+    ]
+  },
+  {
+    "dependencia": "JURÍDICA",
+    "filas_financieras": [
+      118,
+      119,
+      125,
+      153
+    ]
+  },
+  {
+    "dependencia": "SECRETARÍA DE CONTROL URBANO",
+    "filas_financieras": [
+      33,
+      71,
+      89,
+      90,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      102,
+      169,
+      171,
+      172,
+      173,
+      174,
+      176,
+      177,
+      194,
+      195
+    ]
+  },
+  {
+    "dependencia": "SECRETARÍA DE GOBIERNO",
+    "filas_financieras": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      141,
+      144,
+      145,
+      154,
+      160,
+      161,
+      165,
+      170,
+      164
+    ]
+  },
+  {
+    "dependencia": "SECRETARÍA DE HACIENDA",
+    "filas_financieras": [
+      139,
+      149,
+      175
+    ]
+  },
+  {
+    "dependencia": "OFICINA DE PLANEACIÓN",
+    "filas_financieras": [
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      91,
+      105,
+      108,
+      120,
+      121,
+      122,
+      123,
+      127,
+      128,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135,
+      136,
+      138,
+      157,
+      181,
+      183
+    ]
+  },
+  {
+    "dependencia": "SECRETARÍA DE TRÁNSITO",
+    "filas_financieras": [
+      98,
+      99,
+      100,
+      101
+    ]
+  },
+  {
+    "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+    "filas_financieras": [
+      146,
+      147,
+      148,
+      150,
+      152,
+      156,
+      158,
+      193,
+      206,
+      207,
+      208,
+      209,
+      210,
+      211
+    ]
+  },
+  {
+    "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+    "filas_financieras": [
+      103,
+      104,
+      106,
+      107,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      124,
+      126,
+      137,
+      162,
+      184,
+      185,
+      186,
+      187,
+      188,
+      189,
+      190,
+      191,
+      192,
+      196
+    ]
+  },
+  {
+    "dependencia": "SUBSECRETARÍA DE SALUD",
+    "filas_financieras": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      21,
+      22,
+      23
+    ]
+  }
+]

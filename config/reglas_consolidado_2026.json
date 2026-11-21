@@ -1,0 +1,1248 @@
+{
+  "descripcion": "Asignación presupuestal derivada de DOCUMENTO CONSOLIDADO. No lee ni necesita RESUMEN. Claves de identidad independientes del número de fila.",
+  "version": 2,
+  "asignaciones": [
+    {
+      "clave": "1903001|202500000002649|documentos técnicos socializados|documentos de lineamientos técnicos|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 5
+    },
+    {
+      "clave": "1903011|202500000002649|visitas realizadas|servicio de inspección, vigilancia y control|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 6
+    },
+    {
+      "clave": "1903028|202500000002649|preguntas quejas reclamos y denuncias gestionadas|servicio de gestión de peticiones, quejas, reclamos y denuncias|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 7
+    },
+    {
+      "clave": "1905015|202500000001701|documentos de planeación elaborados|documentos de planeación|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 8
+    },
+    {
+      "clave": "1905021|202500000001701|campañas de gestión del riesgo en temas de salud sexual y reproductiva implementadas|servicio de gestión del riesgo en temas de salud sexual y reproductiva|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 9
+    },
+    {
+      "clave": "1905031|202500000001701|estrategias de promoción de la salud y prevención de riesgos asociados a condiciones no transmisibles implementadas|servicio de promoción de la salud y prevención de riesgos asociados a condiciones no transmisibles|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 10
+    },
+    {
+      "clave": "1905043|202500000001701|estrategias de gestión del riesgo para abordar situaciones endemo-epidémicas implementadas|servicio de gestión del riesgo para abordar situaciones endemo-epidémicas|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 11
+    },
+    {
+      "clave": "1905049|202500000001701|mujeres que participan en estrategias de promoción de la participación social en salud|servicio de promoción de la participación social en salud|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 12
+    },
+    {
+      "clave": "1905049|202500000001701|estrategias de promoción de la participación social en salud implementadas|servicio de promoción de la participación social en salud|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 13
+    },
+    {
+      "clave": "1905050|202500000001701|asistencias técnicas realizadas|servicio de asistencia técnica|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 14
+    },
+    {
+      "clave": "1905054|202500000001701|estrategias de promoción de la salud implementadas|servicio de promoción de la salud|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 15
+    },
+    {
+      "clave": "1905054|202500000001701|estrategias de promoción de la salud en temas de salud mental y convivencia social pacífica implementadas|servicio de promoción de la salud|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 16
+    },
+    {
+      "clave": "1906004|202500000002649|personas atendidas con servicio de salud|servicio de atención en salud a la población|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 17
+    },
+    {
+      "clave": "1906011|202500000002649|hospitales de segundo nivel de atención construidos y dotados|hospitales de segundo nivel de atención construidos y dotados|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 18
+    },
+    {
+      "clave": "1906012||hospitales de segundo nivel de atención dotados|hospitales de segundo nivel de atención dotados|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 19
+    },
+    {
+      "clave": "1906028|202500000036686|personas que reciben servicios y técnologias de apoyo para la habilitación y rehabilitación funcional|servicio para la habilitación y la rehabilitación funcional|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 20
+    },
+    {
+      "clave": "1906030||hospitales de primer nivel de atención construidos y dotados|hospitales de primer nivel de atención construidos y dotados|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 21
+    },
+    {
+      "clave": "1906031|202500000002649|reportes de información entregados|servicio de información para las instituciones públicas prestadoras de salud y la dirección de la entidad territorial implementado|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 22
+    },
+    {
+      "clave": "1906044|202500000002127|personas afiliadas al régimen subsidiado|servicio de afiliaciones al régimen subsidiado del sistema general de seguridad social|subsecretaría de salud",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE SALUD",
+      "fila_referencia": 23
+    },
+    {
+      "clave": "2201001|202500000007024|documentos de planeación para la educación inicial, preescolar, básica y media emitidos|documentos de planeación|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 24
+    },
+    {
+      "clave": "2201017|202500000007024|personas beneficiadas con estrategias de fomento para el acceso a la educación inicial, preescolar, básica y media.|servicio de fomento para el acceso a la educación inicial, preescolar, básica y media.|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 25
+    },
+    {
+      "clave": "2201028|202500000007024|beneficiarios de la alimentación escolar|servicio de apoyo a la permanencia con alimentación escolar|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 26
+    },
+    {
+      "clave": "2201029|202500000007024|beneficiarios de transporte escolar|servicio de apoyo a la permanencia con transporte escolar|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 27
+    },
+    {
+      "clave": "2201030|202500000007024|beneficiarios atendidos con modelos educativos flexibles|servicio educación formal por modelos educativos flexibles|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 28
+    },
+    {
+      "clave": "2201032|202500000007024|personas beneficiarias con modelos de alfabetización|servicio de alfabetización|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 29
+    },
+    {
+      "clave": "2201034|202500000007024|instituciones educativas fortalecidas en competencias comunicativas en un segundo idioma|servicio educativos de promoción del bilingüismo|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 30
+    },
+    {
+      "clave": "2201046|202500000007024|entidades o instituciones asistidas técnicamente en innovación educativa|servicios de asistencia técnica en innovación educativa en la educación inicial, preescolar, básica y media|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 31
+    },
+    {
+      "clave": "2201049|202500000007024|foros educativos territoriales realizados|servicio de educación informal|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 32
+    },
+    {
+      "clave": "2201052|202500000007024|sedes educativas mejoradas|infraestructura educativa mejorada|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 33
+    },
+    {
+      "clave": "2201054|202500000007024|entidades territoriales con estrategias para la prevención de riesgos sociales en los entornos escolares implementadas|servicio de fomento para la prevención de riesgos sociales en entornos escolares|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 34
+    },
+    {
+      "clave": "2201069|202500000007024|sedes dotadas|infraestructura educativa dotada|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 35
+    },
+    {
+      "clave": "2201071|202500000007024|establecimientos educativos en operación|servicio educativo|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 36
+    },
+    {
+      "clave": "2201081|202500000007024|sedes educativas apoyadas en la implementación de la ruta de atención integral para la convivencia escolar|servicio de apoyo a la atención integral para la convivencia escolar|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 37
+    },
+    {
+      "clave": "2202062|202500000007963|beneficiarios de estrategias o programas de fomento para el acceso a la educación superior|servicio de fomento para el acceso a la educación superior|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 38
+    },
+    {
+      "clave": "3301017|202500000007114|casas de la cultura ampliadas|casas de la cultura ampliadas|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 39
+    },
+    {
+      "clave": "3301052|202500000007114|cupos de educación formal ofertados|servicio de educación formal al sector artístico y cultural|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 40
+    },
+    {
+      "clave": "3301053|202500000007114|actividades culturales para la promoción de la cultura realizadas|servicio de promoción de actividades culturales|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 41
+    },
+    {
+      "clave": "3301054|202500000007114|estímulos otorgados al sector artístico|servicio de apoyo financiero al sector artístico y cultural|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 42
+    },
+    {
+      "clave": "3301055|202500000007114|pasantías en áreas artísticas y culturales gestionadas|servicio de apoyo financiero para el desarrollo de prácticas artísticas y culturales|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 43
+    },
+    {
+      "clave": "3301063|202500000007114|proyectos de infraestructura cultural asistidos técnicamente|servicio de asistencia técnica para la viabilización de proyectos de infraestructura|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 44
+    },
+    {
+      "clave": "3301064|202500000007114|asistencias técnicas realizadas|servicio de asistencia técnica en educación artística y cultural|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 45
+    },
+    {
+      "clave": "3301069|202500000007114|documentos de investigación realizados|documentos de investigación|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 46
+    },
+    {
+      "clave": "3301070|202500000007114|número de documentos de lineamientos técnicos realizados|documentos de lineamientos técnicos|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 47
+    },
+    {
+      "clave": "3301074|202500000007114|encuentros realizados|servicio de apoyo para la organización y la participación del sector artístico, cultural y la ciudadanía|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 48
+    },
+    {
+      "clave": "3301101|202500000007114|centros musicales dotados|centro musicales dotados|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 49
+    },
+    {
+      "clave": "3301126|202500000007114|procesos de formación atendidos|servicio de apoyo al proceso de formación artística y cultural|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 50
+    },
+    {
+      "clave": "4101025|202500000007140|personas víctimas con atención humanitaria|servicio de ayuda y atención humanitaria|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 51
+    },
+    {
+      "clave": "4101014|202500000007140|víctimas caracterizadas|servicio de caracterización de la población víctima para su posterior atención, asistencia y reparación integral|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 52
+    },
+    {
+      "clave": "4101031|202500000007140|víctimas reconocidas, recordadas y dignificadas por el estado.|servicios de implementaciónde medidas de satisfacción y acompañamiento a las víctimas del conflicto armado|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 53
+    },
+    {
+      "clave": "4101038|202500000007140|mesas de participación en funcionamiento|servicio de asistencia técnica para la participación de las víctimas|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 54
+    },
+    {
+      "clave": "4101073|202500000007140|hogares con asistencia técnica para la generación de ingresos|servicio de apoyo para la generación de ingresos|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 55
+    },
+    {
+      "clave": "4101100|202500000007140|hogares víctimas con atención humanitaria|servicio de asistencia humanitaria a víctimas del conflicto armado|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 56
+    },
+    {
+      "clave": "4102038|202500000013628|niños, niñas, adolescentes y jóvenes atendidios en los servicios de restablecimiento en la administración de justicia|servicio dirigidos a la atención de niños, niñas, adolescentes y jóvenes, con enfoque pedagógico y restaurativo encaminados a la inclusión social|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 57
+    },
+    {
+      "clave": "4102046|202500000013628|campañas de promoción realizadas|servicios de promoción de los derechos de los niños, niñas, adolescentes y jóvenes|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 58
+    },
+    {
+      "clave": "4102047|202500000013628|agentes de la institucionalidad de infancia, adolescencia y juventud asistidos técnicamente|servicios de asistencia técnica en políticas públicas de infancia, adolescencia y juventud|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 59
+    },
+    {
+      "clave": "4102052|202500000013628|niños, niñas, adolescentes y jóvenes beneficiados|servicio de protección integral a niños, niñas, adolescentes y jóvenes|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 60
+    },
+    {
+      "clave": "4103009|202500000004711|personas asistidas en temas de desarrollo de habilidades no cognitivas|servicio de asistencia en temas de desarrollo de habilidades no cognitivas para la inclusión productiva|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 61
+    },
+    {
+      "clave": "4103017|202500000004711|personas beneficiadas con raciones de alimentos|servicio de entrega de raciones de alimentos|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 62
+    },
+    {
+      "clave": "4103050|202500000004711|talleres de orientación para el bienestar comunitario realizados|servicio de acompañamiento familiar y comunitario para la superación de la pobreza|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 63
+    },
+    {
+      "clave": "4103052|202500000004711|beneficiarios potenciales para quienes se gestiona la oferta social|servicio de gestión de oferta social para la población vulnerable|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 64
+    },
+    {
+      "clave": "4103052|202500000004711|beneficiarios potenciales para quienes se gestiona la oferta social|servicio de gestión de oferta social para la población vulnerable|gestión social",
+      "ocurrencia": 2,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 65
+    },
+    {
+      "clave": "4103063|202500000004711|caracterizaciones realizadas en temas relacionados con la inclusión social y productiva para la población en situación de vulnerabilidad|documentos de investigación|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 66
+    },
+    {
+      "clave": "4103063|202500000004711|documentos de investigación realizados|documentos de investigación|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 67
+    },
+    {
+      "clave": "4104008|202500000003279|adultos mayores atendidos con servicios integrales|servicio de atención y protección integral al adulto mayor|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 68
+    },
+    {
+      "clave": "4104020|202500000003279|personas con discapacidad atendidas con servicios integrales|servicio de atención integral a población en condición de discapacidad|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 69
+    },
+    {
+      "clave": "4104027|202500000003279|personas atendidas con servicios integrales|servicio de atención integral al habitante de la calle|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 70
+    },
+    {
+      "clave": "4104037|202500000003279|centros de atención integral para personas con discapacidad adecuados|centros de atención integral para personas con discapacidad adecuados|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 71
+    },
+    {
+      "clave": "4301001|202500000014884|personas beneficiadas|servicio de apoyo a la actividad física, la recreación y el deporte|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 72
+    },
+    {
+      "clave": "4301004|202500000014884|infraestructura deportiva mantenida|servicio de mantenimiento a la infraestructura deportiva|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 73
+    },
+    {
+      "clave": "4301007|202500000014884|niños, niñas, adolescentes y jóvenes inscritos en escuelas deportivas|servicio de escuelas deportivas|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 74
+    },
+    {
+      "clave": "4301013|202500000014884|parques recreativos mejorados|parques recreativos mejorados|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 75
+    },
+    {
+      "clave": "4301032|202500000014884|personas beneficiadas|servicio de organización de eventos deportivos comunitarios|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 76
+    },
+    {
+      "clave": "4301037|202500000014884|personas que acceden a servicios deportivos, recreativos y de actividad física|servicio de promoción de la actividad física, la recreación y el deporte|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 77
+    },
+    {
+      "clave": "4302002|202500000014694|estímulos entregados|servicio de apoyo financiero a atletas|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 78
+    },
+    {
+      "clave": "4302006||documentos de planeación realizados|documentos de planeación|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 79
+    },
+    {
+      "clave": "4302026|202500000014694|coliseos adecuados|coliseos cubiertos adecuados|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 80
+    },
+    {
+      "clave": "4302058|202500000014694|gimnasios mantenidos|gimnasios mantenidos|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 81
+    },
+    {
+      "clave": "4302075|202500000014694|organismos deportivos asistidos|servicio de asistencia técnica para la promoción del deporte|inder",
+      "ocurrencia": 1,
+      "dependencia": "INDER",
+      "fila_referencia": 82
+    },
+    {
+      "clave": "2101012|202500000002988|usuarios beneficiados con subsidios a la oferta|servicio de apoyo financiero para subsidios a la oferta en el servicio público de gas|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 83
+    },
+    {
+      "clave": "2102009||documentos de planeación y caracterización energética realizados|documentos de planeación|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 84
+    },
+    {
+      "clave": "2102020|202500000002988|redes de alumbrado público ampliadas|redes del sistema de transmisión regional ampliada|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 85
+    },
+    {
+      "clave": "2102045|202500000002988|viviendas en zonas rurales conectadas a la red del sistema de distribución local de energía eléctrica|redes domiciliarias de energía eléctrica instaladas|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 86
+    },
+    {
+      "clave": "2102062|202500000002988|usuarios beneficiados|servicios de apoyo a la implementación de fuentes no convencionales de energía|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 87
+    },
+    {
+      "clave": "2102069|202500000002988|lámparas de alumbrado público en funcionamiento|servicio de alumbrado público|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 88
+    },
+    {
+      "clave": "2401052|202500000003114|estudios realizados|estudios de preinversión|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 89
+    },
+    {
+      "clave": "2402041|202500000003114|vía terciaria mejorada|vía terciaria mejorada|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 90
+    },
+    {
+      "clave": "2402042|202500000003114|placa huella construida|placa huella construida|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 91
+    },
+    {
+      "clave": "2402056|202500000003114|caminos ancestrales con mantenimiento|caminos ancestrales con mantenimiento|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 92
+    },
+    {
+      "clave": "2402115|202500000003114|vía urbana con mantenimiento|vía urbana con mantenimiento periódico o rutinario|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 93
+    },
+    {
+      "clave": "2402118|202500000003114|estudios de preinversión realizados|estudios de preinversión para la red vial regional|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 94
+    },
+    {
+      "clave": "2402118|202500000003114|erstudios y diseños realizados red urbana|estudios de preinversión para la red vial regional|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 95
+    },
+    {
+      "clave": "2402118|202500000003114|estudios y diseños actualizados red urbana|estudios de preinversión para la red vial regional|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 96
+    },
+    {
+      "clave": "2403002|202500000023708|infraestructura ambiental construida|aeropuertos mejorados|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 97
+    },
+    {
+      "clave": "2409011|202500000006528|organismos de tránsito dotados con implementos para el control del tránsito|servicio de control a la seguridad vial|secretaría de tránsito",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE TRÁNSITO",
+      "fila_referencia": 98
+    },
+    {
+      "clave": "2409013|202500000006528|vías urbanas con demarcación|infraestructura de transporte para la seguridad vial|secretaría de tránsito",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE TRÁNSITO",
+      "fila_referencia": 99
+    },
+    {
+      "clave": "2409014|202500000006528|documentos de planeación realizados|documentos de planeación|secretaría de tránsito",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE TRÁNSITO",
+      "fila_referencia": 100
+    },
+    {
+      "clave": "2409023|202500000006528|capacitaciones realizadas|servicio de sensibilización a los actores viales|secretaría de tránsito",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE TRÁNSITO",
+      "fila_referencia": 101
+    },
+    {
+      "clave": "2409064|202500000006528|documentos de estudios técnicos realizados|documentos de estudios técnicos|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 102
+    },
+    {
+      "clave": "3202042||árboles intervenidos|servicio de manejo del arbolado urbano|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 103
+    },
+    {
+      "clave": "3202043||áreas con esquemas de pago por servicios ambientales implementados|servicio apoyo financiero para la implementación de esquemas de pago por servicio ambientales|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 104
+    },
+    {
+      "clave": "3203034|202500000023406|proyectos para el mejoramiento de la calidad del recurso hídrico formulados|servicio de asistencia técnica para la implementación de lineamientos sobre el mejoramiento de la calidad del recurso hídrico|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 105
+    },
+    {
+      "clave": "3203048|202500000023406|reservorio construido|servicio de almacenamiento de agua|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 106
+    },
+    {
+      "clave": "3203050|202500000023406|áreas protegidas|servicio de protección del recurso hídrico|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 107
+    },
+    {
+      "clave": "3204025||personas formadas en cultura y participación para la gestión ambiental y territorial|servicio de educación para el trabajo en cultura y participación para la gestión ambiental y territorial|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 108
+    },
+    {
+      "clave": "3204060||jardines botánicos construidos y dotados|jardín botánico construido y dotado|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 109
+    },
+    {
+      "clave": "3205014|202500000027707|área reforestada|obras para el control de erosión|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 110
+    },
+    {
+      "clave": "3206003|202500000007489|pilotos con acciones de mitigación y adaptación al cambio climático desarrollados|servicio de apoyo técnico para la implementación de acciones de mitigación y adaptación al cambio climático|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 111
+    },
+    {
+      "clave": "3206008|202500000007489|número de programas formulados|servicio de educación formal en gestión del cambio climático para un desarrollo bajo en carbono y resiliente al clima|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 112
+    },
+    {
+      "clave": "3206014|202500000007489|plántulas producidas|servicio de producción de plántulas en viveros|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 113
+    },
+    {
+      "clave": "3208006|202500000007500|estrategias educativo ambientales y de participación implementadas|servicio de asistencia técnica para la implementación de las estrategias educativo ambientales y de participación|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 114
+    },
+    {
+      "clave": "3208007|202500000007500|proyectos de protección y recuperación del conocimiento tradicional asociado a la biodiversidad|servicio de apoyo técnico a proyectos de educación ambiental y participación con enfoque diferencial|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 115
+    },
+    {
+      "clave": "3208008|202500000007500|eventos de educación y participación realizados|servicio de divulgación de la información de la política nacional de educación ambiental y participación|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 116
+    },
+    {
+      "clave": "3208008|202500000007500|campañas de educación ambiental y participación implementadas|servicio de divulgación de la información de la política nacional de educación ambiental y participación|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 117
+    },
+    {
+      "clave": "4001001|202500000018119|asistencias técnicas y jurídicas realizadas|servicio de asistencia técnica y jurídica en saneamiento y titulación de predios|jurídica",
+      "ocurrencia": 1,
+      "dependencia": "JURÍDICA",
+      "fila_referencia": 118
+    },
+    {
+      "clave": "4001007|202500000018119|bienes fiscales saneados y titulados|servicio de saneamiento y titulación de bienes fiscales|jurídica",
+      "ocurrencia": 1,
+      "dependencia": "JURÍDICA",
+      "fila_referencia": 119
+    },
+    {
+      "clave": "4001032|202500000018119|hogares beneficiados con mejoramiento de una vivienda rural|servicio de apoyo financiero para mejoramiento de vivienda|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 120
+    },
+    {
+      "clave": "4001032|202500000018119|hogares beneficiados con mejoramiento de una vivienda urbana|servicio de apoyo financiero para mejoramiento de vivienda|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 121
+    },
+    {
+      "clave": "4001042|202500000018119|vivienda de interés social construidas|vivienda de interés social construidas|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 122
+    },
+    {
+      "clave": "4002016|202500000008123|documentos de planeación elaborados|documentos de planeación|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 123
+    },
+    {
+      "clave": "4002022|202500000008123|parques mantenidos|parques mantenidos|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 124
+    },
+    {
+      "clave": "4002040|202500000008123|predios adquiridos|servicio de adquisición de predios en zonas de alto riesgo|jurídica",
+      "ocurrencia": 1,
+      "dependencia": "JURÍDICA",
+      "fila_referencia": 125
+    },
+    {
+      "clave": "4003006|202500000002976|documentos de planeación elaborados|documentos de planeación|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 126
+    },
+    {
+      "clave": "4003015|202500000002976|acueductos construidos|acueductos construidos|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 127
+    },
+    {
+      "clave": "4003016|202500000002976|red de distribución ampliada|acueductos ampliados|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 128
+    },
+    {
+      "clave": "4003016|202500000002976|plantas de tratamiento de agua potable ampliadas|acueductos ampliados|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 129
+    },
+    {
+      "clave": "4003017|202500000002976|acueductos optimizados|acueductos optimizados|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 130
+    },
+    {
+      "clave": "4003018|202500000002976|red de alcantarillado construida|alcantarillados construidos|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 131
+    },
+    {
+      "clave": "4003022|202500000002976|plan de gestión integral de residuos solidos implementado|servicios de implementación del plan de gestión integral de residuos solidos pgirs|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 132
+    },
+    {
+      "clave": "4003040||proyectos apoyados financieramente|servicio de apoyo financiero en tratamiento de aguas residuales|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 133
+    },
+    {
+      "clave": "4003047|202500000002976|usuarios beneficiados con subsidios al consumo del servicio de acueducto|servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliarios|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 134
+    },
+    {
+      "clave": "4003047|202500000002976|usuarios beneficiados con subsidios al consumo del servicio de alcantarillado|servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliarios|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 135
+    },
+    {
+      "clave": "4003047|202500000002976|usuarios beneficiados con subsidios al consumo del servicio de aseo|servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliarios|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 136
+    },
+    {
+      "clave": "401061|202500000004945|bases de datos de la temática agropecuaria generadas|bases de datos de la temática agropecuaria|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 137
+    },
+    {
+      "clave": "401105|202500000004945|predios con estratificación socioeconómica|servicio de estratificación socioeconómica|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 138
+    },
+    {
+      "clave": "406003|202500000004945|trámites de conservación catastral realizados|servicio de conservación catastral|secretaría de hacienda",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE HACIENDA",
+      "fila_referencia": 139
+    },
+    {
+      "clave": "1202003|202500000015543|centros de convivencia ciudadana en operación cofinanciados con mantenimiento físico realizado|centros de convivencia ciudadana en operación|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 140
+    },
+    {
+      "clave": "1203009|202500000008017|ciudadanos capacitados en métodos de resolución de conflictos|servicio de educación informal en resolución de conflictos|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 141
+    },
+    {
+      "clave": "1203011|202500000008017|asistencias técnicas realizadas|servicio de asistencia técnica para la implementación de los métodos de solución de conflictos|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 142
+    },
+    {
+      "clave": "1203013|202500000008017|sistemas de información actualizados|servicio de información actualizado|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 143
+    },
+    {
+      "clave": "1206001|202500000045028|cupos penitenciarios y carcelarios entregados (nacionales y territoriales)|infraestructura penitenciaria y carcelaria construida|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 144
+    },
+    {
+      "clave": "1206005|202500000023300|personas privadas de la libertad (ppl) que reciben servicio de resocialización|servicio de resocialización de personas privadas de la libertad|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 145
+    },
+    {
+      "clave": "2301014|202500000018290|municipios asistidos en despliegue de infraestructura|servicio de asistencia técnica para promocionar el despliegue de infraestructura de las tecnologías de la información y las comunicaciones|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 146
+    },
+    {
+      "clave": "2301075|202500000018290|sistemas de información implementados|servicio de información implementado|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 147
+    },
+    {
+      "clave": "2301076|202500000018290|espacios públicos para la promoción de las tic habilitados|servicio de acceso y promoción a las tecnologías de la información y las comunicaciones|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 148
+    },
+    {
+      "clave": "2301077|202500000018290|sistemas de información actualizados|servicio de información actualizado|secretaría de hacienda",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE HACIENDA",
+      "fila_referencia": 149
+    },
+    {
+      "clave": "2301079|202500000018290|zonas digitales instaladas|servicio de acceso zonas digitales|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 150
+    },
+    {
+      "clave": "2302090|202500000026622|horas en pantalla comercializadas|servicio de pauta y emisión publicitaria|comunicaciones",
+      "ocurrencia": 1,
+      "dependencia": "COMUNICACIONES",
+      "fila_referencia": 151
+    },
+    {
+      "clave": "2302037|202500000026622|alianzas (convenios, actividades dinamizadoras, acuerdos de servicio, etc.) gestionadas para promover la formación en gobierno digital|servicio de gestión de alianzas para promover la formación en gobierno digital|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 152
+    },
+    {
+      "clave": "2501017||políticas públicas de control y vigilancia fiscal con procesos de seguimiento realizados|servicio de seguimiento de políticas publicas|jurídica",
+      "ocurrencia": 1,
+      "dependencia": "JURÍDICA",
+      "fila_referencia": 153
+    },
+    {
+      "clave": "2502002||personas asistidas técnicamente|servicio de asistencia técnica para atención, orientación y asesoría en materia de derechos humanos, el derecho internacional humanitario y en escenarios de paz|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 154
+    },
+    {
+      "clave": "2503003||personas capacitadas|servicio de educación informal en temas de lucha contra la corrupción|dirección administrativa",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 155
+    },
+    {
+      "clave": "3906001|202500000022719|personas apoyadas en su vocación científica|servicio de apoyo financiero para el fortalecimiento de las vocaciones científicas en cti|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 156
+    },
+    {
+      "clave": "3906006|202500000022719|programas y proyectos financiados|servicio de apoyo financiero para programas y proyectos de infraestructura científica y tecnológica|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 157
+    },
+    {
+      "clave": "3906011|202500000022719|estrategias de apropiación realizadas|servicio de apropiación social del conocimiento|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 158
+    },
+    {
+      "clave": "4501050|202500000003306|personas de la comunidad lgbtiq atendidos.|servicio de orientación a casos de violencia de género|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 159
+    },
+    {
+      "clave": "4501026||planes integrales de seguridad y convivencia -piscc con enfoque de género elaborados|documentos planeacion|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 160
+    },
+    {
+      "clave": "4501029|202500000003306|proyectos de convivencia y seguridad ciudadana apoyados financieramente|servicio de apoyo financiero para proyectos de convivencia y seguridad ciudadana|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 161
+    },
+    {
+      "clave": "4501061|202500000003306|animales atendidos|servicio de atención integral a la fauna|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 162
+    },
+    {
+      "clave": "4501082|202500000003306|trabajadores de la comisaria de familia beneficiados|servicio de apoyo para la atención especializada e interdisciplinaria en las comisarias de familia|centro de convivencia",
+      "ocurrencia": 1,
+      "dependencia": "CENTRO DE CONVIVENCIA",
+      "fila_referencia": 163
+    },
+    {
+      "clave": "4502001|202500000005423|iniciativas organizativas de participación ciudadana promovidas|servicio de promoción a la participación ciudadana|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 164
+    },
+    {
+      "clave": "4502001|202500000005423|rendición de cuentas realizadas|servicio de promoción a la participación ciudadana|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 165
+    },
+    {
+      "clave": "4502034|202500000005423|funcionarios capacitados|servicio de educación informal|dirección administrativa",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 166
+    },
+    {
+      "clave": "4502038|202500000005423|rutas de atención implementadas|servicio de promoción de la garantía de derechos|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 167
+    },
+    {
+      "clave": "4502038|202500000005423|estrategias de promoción de la garantía de derechos implementadas|servicio de promoción de la garantía de derechos|gestión social",
+      "ocurrencia": 1,
+      "dependencia": "GESTIÓN SOCIAL",
+      "fila_referencia": 168
+    },
+    {
+      "clave": "4503002|202500000017660|campañas de educación para la prevención y atención de desastres desarrolladas|servicio de educación informal|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 169
+    },
+    {
+      "clave": "4503004|202500000017660|organismos de atención de emergencias equipados|servicio de atención a emergencias y desastres|secretaría de gobierno",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE GOBIERNO",
+      "fila_referencia": 170
+    },
+    {
+      "clave": "4503016|202500000017660|organismos de atención de emergencias fortalecidos|servicio de fortalecimiento a las salas de crisis territorial|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 171
+    },
+    {
+      "clave": "4503018|202500000017660|sistemas de alerta temprana implementados|\"servicio de monitoreo y seguimiento para la gestión del riesgo\"|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 172
+    },
+    {
+      "clave": "4503022|202500000017660|obras de infraestructura para la reducción del riesgo de desastres realizadas|obras de infraestructura para la reducción del riesgo de desastres|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 173
+    },
+    {
+      "clave": "4503023|202500000017660|plan de gestión del riesgo de desastres formulado|documentos de planeación|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 174
+    },
+    {
+      "clave": "4599002|202500000001796|estrategia para el mejoramiento del índice de desempeño fiscal ejecutada|servicio de saneamiento fiscal y financiero|secretaría de hacienda",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE HACIENDA",
+      "fila_referencia": 175
+    },
+    {
+      "clave": "4599011|202500000001796|sedes adecuadas|sedes adecuadas|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 176
+    },
+    {
+      "clave": "4599016|202500000001796|sedes mantenidas|sedes mantenidas|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 177
+    },
+    {
+      "clave": "4599017|202500000001796|sistema de gestión documental implementado|servicio de gestión documental|dirección administrativa",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 178
+    },
+    {
+      "clave": "4599018|202500000001796|número de documentos|documentos de lineamientos técnicos|dirección administrativa",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 179
+    },
+    {
+      "clave": "4599019|202500000001796|documentos de planeación realizados|documentos de planeación|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 180
+    },
+    {
+      "clave": "4599023|202500000001796|sistema de gestión implementado|servicio de implementación sistemas de gestión|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 181
+    },
+    {
+      "clave": "4599031|202500000001796|entidades, organismos y dependencias asistidos técnicamente|servicio de asistencia técnica|dirección administrativa",
+      "ocurrencia": 1,
+      "dependencia": "DIRECCIÓN ADMINISTRATIVA",
+      "fila_referencia": 182
+    },
+    {
+      "clave": "4599033|202500000001796|hogares que realizaron la encuesta|servicio de información para el registro administrativo de sisben|oficina de planeación",
+      "ocurrencia": 1,
+      "dependencia": "OFICINA DE PLANEACIÓN",
+      "fila_referencia": 183
+    },
+    {
+      "clave": "1702009|202500000007502|productores apoyados con activos productivos y de comercialización|servicio de apoyo financiero para el acceso a activos productivos y de comercialización|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 184
+    },
+    {
+      "clave": "1702010|202500000007502|pequeños productores rurales asistidos técnicamente|servicio de asistencia técnica agropecuaria dirigida a pequeños productores|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 185
+    },
+    {
+      "clave": "1702011|202500000007502|asociaciones fortalecidas|servicio de asesoría para el fortalecimiento de la asociatividad|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 186
+    },
+    {
+      "clave": "1702017|202500000007502|productores agropecuarios apoyados|servicio de apoyo para el fomento organizativo de la agricultura campesina, familiar y comunitaria|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 187
+    },
+    {
+      "clave": "1702024|202500000007502|planes de desarrollo agropecuario y rural acompañados|servicios de acompañamiento en la implementación de planes de desarrollo agropecuario y rural|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 188
+    },
+    {
+      "clave": "1703009||productores beneficiarios de nuevos esquemas e instrumentos financieros para la gestión de riesgos agropecuarios.|servicio de apoyo financiero para la gestión de riesgos agropecuarios|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 189
+    },
+    {
+      "clave": "1706008|202500000028905|ferias nacionales e internacionales organizadas|servicio de apoyo financiero para la organización de ferias nacionales e internacionales|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 190
+    },
+    {
+      "clave": "1708018|202500000007970|especies trabajadas a nivel genético|especies animales y vegetales mejoradas|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 191
+    },
+    {
+      "clave": "1708041|202500000007970|productores atendidos con servicio de extensión agropecuaria|servicio de extensión agropecuaria|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 192
+    },
+    {
+      "clave": "1709013|202500000029904|centros de acopio adecuados|centros de acopio adecuados|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 193
+    },
+    {
+      "clave": "1709068|202500000029904|plantas de beneficio animal construidas|plantas de beneficio animal construidas|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 194
+    },
+    {
+      "clave": "1709078|202500000029904|plazas de mercado adecuadas|plaza de mercado adecuadas|secretaría de control urbano",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARÍA DE CONTROL URBANO",
+      "fila_referencia": 195
+    },
+    {
+      "clave": "1709114|202500000029904|maquinaria y equipos para la producción agropecuaria adquiridos|bancos de maquinaria y equipos para la producción agropecuaria dotado|subsecretaría de desarrollo rural",
+      "ocurrencia": 1,
+      "dependencia": "SUBSECRETARÍA DE DESARROLLO RURAL",
+      "fila_referencia": 196
+    },
+    {
+      "clave": "3502012|202500000006926|proyectos de innovación cofinanciados|servicio de apoyo para la modernización y fomento de la innovación empresarial|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 197
+    },
+    {
+      "clave": "3502036|202500000006926|proyectos cofinanciados para la adecuación de la oferta turística|servicio de apoyo financiero para la competitividad turística|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 198
+    },
+    {
+      "clave": "3502039|202500000006926|proyectos de infraestructura turística apoyados|servicio de asistencia técnica a los entes territoriales para el desarrollo turístico|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 199
+    },
+    {
+      "clave": "3502039|202500000006926|convenios, alianzas estratégicas y suscripciones realizadas|servicio de asistencia técnica a los entes territoriales para el desarrollo turístico|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 200
+    },
+    {
+      "clave": "3502045|202500000006926|capacitaciones realizadas|servicio de educación informal en asuntos turísticos|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 201
+    },
+    {
+      "clave": "3502046|202500000006926|eventos de promoción realizados|servicio de promoción turística|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 202
+    },
+    {
+      "clave": "3502047|202500000006926|documentos de planeación elaborados|documentos de planeación|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 203
+    },
+    {
+      "clave": "3502055||centro turístico mantenido|centro turístico mantenido|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 204
+    },
+    {
+      "clave": "3502093|202500000006926|portales integrados|servicios de información turística a nivel nacional|ict",
+      "ocurrencia": 1,
+      "dependencia": "ICT",
+      "fila_referencia": 205
+    },
+    {
+      "clave": "3602004|202600000003322|personas colocadas laboralmente|servicio de colocación laboral|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 206
+    },
+    {
+      "clave": "3602022|202600000003322|alianzas estratégicas generadas|servicios de asistencia técnica para la generación de alianzas estratégicas|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 207
+    },
+    {
+      "clave": "3602023|202600000003322|personas capacitadas|servicios de educación informal en economía solidaria|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 208
+    },
+    {
+      "clave": "3602032|202600000003322|emprendimientos asesorados|servicio de asesoría técnica para el emprendimiento|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 209
+    },
+    {
+      "clave": "3603019|202600000003322|programas realizados|servicio de fomento de los programas de formación para el trabajo|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 210
+    },
+    {
+      "clave": "3603002|202600000003322|personas formadas|servicio de formación para el trabajo en competencias para la inserción laboral|secretaria de desarrollo economico",
+      "ocurrencia": 1,
+      "dependencia": "SECRETARIA DE DESARROLLO ECONOMICO",
+      "fila_referencia": 211
+    }
+  ]
+}
